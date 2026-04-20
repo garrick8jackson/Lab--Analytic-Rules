@@ -6,8 +6,10 @@ After accessing the workspace through sentinel I searched and installed Azure ac
 
 After installing Axure activity I went to the configuration option of the workspace and selected analytics which then moved me to Microsoft defender. I then selected the Rule templates
 
-![image alt](
+![image alt](https://github.com/garrick8jackson/Lab--Analytic-Rules/blob/f4818a2b7acb1d0c54c8e823c9734e537a94f83d/analytic%20rules%203.png)
+
 I search for “rare subscription level operations” selected the template and hit create rule
+
 ![image alt]
 In the set rule logic I checked the rule query to make sure it met my needs and used the “test with current data” feature to make sure it worked properly
 ![image alt]
