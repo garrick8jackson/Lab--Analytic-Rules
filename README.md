@@ -14,5 +14,6 @@ I search for “rare subscription level operations” selected the template and 
 
 In the set rule logic I checked the rule query to make sure it met my needs and used the “test with current data” feature to make sure it worked properly
 
-![image alt]
+![image alt](https://github.com/garrick8jackson/Lab--Analytic-Rules/blob/4ccd62a7e4f7bdc3b7e3572f578f8a78fdfd5999/analytic%20rules%205.png)
+
 In the incident settings tab I made sure to enable alerts created by the analytics rule and grouped alerts to reduce the amount alerted.
