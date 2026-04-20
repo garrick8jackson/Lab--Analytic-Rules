@@ -10,7 +10,9 @@ After installing Axure activity I went to the configuration option of the worksp
 
 I search for “rare subscription level operations” selected the template and hit create rule
 
-![image alt]
+![image alt](https://github.com/garrick8jackson/Lab--Analytic-Rules/blob/3ff0be8e2b31f5d8eadfd8d2ca27eaf2f0aec6e2/analytic%20rules%204.png)
+
 In the set rule logic I checked the rule query to make sure it met my needs and used the “test with current data” feature to make sure it worked properly
+
 ![image alt]
 In the incident settings tab I made sure to enable alerts created by the analytics rule and grouped alerts to reduce the amount alerted.
