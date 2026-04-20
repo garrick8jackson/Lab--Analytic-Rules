@@ -1,4 +1,4 @@
-# Enabling-Analytic-Rules-in-Microsoft-Sentinel 
+# Enabling Analytic Rules in Microsoft Sentinel 
 
 ![image alt](https://github.com/garrick8jackson/Lab--Analytic-Rules/blob/dbd02c1d063fa6e2cf9419eaac063077573307fc/Analytic%20Rules%201.png)
 
